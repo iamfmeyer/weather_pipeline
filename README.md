@@ -3,7 +3,6 @@
 A modern data engineering project that collects, processes, and analyzes weather data from the German Weather Service (DWD) using AWS Free Tier services and modern data engineering practices.
 
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 ## 🌟 Features
