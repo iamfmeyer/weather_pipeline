@@ -105,7 +105,7 @@ Open-source community for tools and libraries
 
 Frederic Meyer
 GitHub: @iamfmeyer
-LinkedIn: [My Profile](https://www.linkedin.com/in/frederic-meyer-89b154b4/)
+LinkedIn: https://www.linkedin.com/in/frederic-meyer-89b154b4/
 
 
 🗺️ Roadmap
